@@ -33,10 +33,20 @@ Analysis and Exploration
 You can use the provided sales data to perform various analyses, including:
 ## ANALYSIS PERFORMED
 Sales performance analysis
+
+
 Customer segmentation analysis
+
+
 Product category analysis
+
+
 Geographic analysis
+
+
 Time series analysis
+
+
 Feel free to explore the data and conduct your own analyses. If you find any interesting insights or patterns, please consider sharing them with ME by submitting a pull request.
 
 Contributions
